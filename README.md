@@ -30,4 +30,9 @@ yarn dev
 ***
 ### Blog:
 
+* SvelteKit お試し編、CMS表示系など
+
+https://zenn.dev/knaka0209/articles/d1303dd71d6d7a
+
+***
 
